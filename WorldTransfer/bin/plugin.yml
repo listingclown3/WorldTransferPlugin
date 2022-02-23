@@ -1,0 +1,19 @@
+name: Transfer
+main: me.list3.wt.Main
+version: 1.0
+api-version: 1.8
+
+commands:
+   getworld:
+     aliases: [wai, whereami]
+   worldcreate:
+     aliases: [cworld]
+   worldwarp:
+     aliases: [send, warpworld]     
+   pingworlds: 
+     aliases: [onlineworlds, pworld]
+   unloadworld: 
+   worldfiledir: 
+   ip: 
+
+  
